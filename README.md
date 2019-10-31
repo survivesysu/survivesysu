@@ -13,7 +13,7 @@ A survival guide to CS graduate students at Sun Yat-sen University
 
 # 毕业要求论文
 
-至少一个专利或者一篇EI检索的论文。CCF ABC类论文更好。一定不要自己一个人搞。积极和自己的师兄师姐交流。
+至少一个专利或者一篇EI检索的论文。CCF ABC类论文更好。一定不要自己一个人搞。积极和自己的师兄师姐交流。同学们可以根据自己的情况，主动要求延期毕业。详情请联系学院梁老师。
 
 # 中期考核
 
