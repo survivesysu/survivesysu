@@ -3,6 +3,10 @@
 A survival guide to CS graduate students at Sun Yat-sen University
 中山大学计算机学院研究生生存手册
 
+欢迎Contribution。
+
+The only thing necessary for the triumph of evil is for good men to do nothing. -- Edmund Burke, 1776
+
 # 暑期实习
 
 假如你是在2028年毕业，那么你至少需要在2026年下半年开始准备刷题准备。2027年二三月份开始投递简历。国内靠前的互联网公司一般在三四月份面试和录用。国外的互联网公司的话应该在2026年下半年就可以投递简历和面试了。暑期实习对于秋招很重要。去实习之前和导师打声招呼。同样，回来后也不要忘记。
